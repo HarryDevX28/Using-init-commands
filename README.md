@@ -3,4 +3,4 @@ trying to do things on my own
 1.Added git init.
 2.Added index and style files.
 3.Added them to git
-4.Time to commit and push to github through Vs code
+4.Time to commit and push the code to github through Vs code
